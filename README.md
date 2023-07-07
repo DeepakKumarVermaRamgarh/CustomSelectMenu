@@ -22,14 +22,6 @@ The custom select menu allows you to:
 - Bind the menu to a data source.
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
 
 ## Usage/Examples
 
